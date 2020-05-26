@@ -15,11 +15,14 @@ p.titulo {
 }
 
 nav ul {
-    background-color: black;
+    background-color: white;
     color: white;
     list-style: none;
+    justify-content: center;
 }
 nav ul li {
+    background-color: black;
+    color: white;
     border: white 1px solid ;
     display: inline-block;
     justify-content: center;
