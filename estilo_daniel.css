@@ -21,7 +21,7 @@ table {
     background-color: black;
     color: white;
 }
-section.bloque1 {
+ul.bloque1 {
     text-decoration: overline;
     border-color: blue;
     border-width: 1;
