@@ -4,7 +4,9 @@ body {
 
 p.titulo {
     background-color: black;
-    color: white;
+    color: white;´
+    font-size: 150%;
+    font-family: "Segoe UI";
 }
 img.robot {
     background-repeat: repeat-x;
