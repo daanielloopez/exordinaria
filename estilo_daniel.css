@@ -43,19 +43,23 @@ li.bloque2 {
     border: yellow 4px solid;
     width: 250px;
     left: 50px;
-    top: 
+    top: 50px;
+    right: 50px;
 }
 li.bloque3 {
     background-color: rgb(45, 97, 71) ;
     color: white;
     border: orangered 4px dashed;
     width: 310px;
+    text-align: right;
+    left: 200px;
+    top: 200px;
 }
 li.bloque4 {
     background-color: khaki;
     color: blue;
     width: 400px;
-    position: ;
+    left: initial;
 }
 footer {
     background-color: darkblue;
