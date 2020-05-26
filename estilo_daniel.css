@@ -15,7 +15,7 @@ p.titulo {
 }
 nav {
     background-color: white;
-    text-align: center;
+    align-content: center;
 }
 table {
     background-color: black;
