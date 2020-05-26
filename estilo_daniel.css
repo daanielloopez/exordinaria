@@ -19,7 +19,7 @@ nav {
 table {
     background-color: black;
     color: white;
-    text-align: center;
+    align-content: center;
 }
 img.robot {
     background-repeat: repeat-x;
