@@ -15,12 +15,9 @@ p.titulo {
 }
 nav {
     background-color: white;
+    text-align: center;
 }
 table {
     background-color: black;
     color: white;
-    align-content: center;
-}
-img.robot {
-    background-repeat: repeat-x;
 }
