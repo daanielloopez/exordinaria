@@ -22,7 +22,7 @@ table {
     color: white;
 }
 ul.bloque1 {
+    background-color: white;
     text-decoration: overline;
-    border-color: blue;
-    border-width: 1;
+    border: blue 2px solid;
 }
