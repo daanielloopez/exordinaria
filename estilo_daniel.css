@@ -19,9 +19,11 @@ nav ul {
     color: white;
     list-style: none;
     justify-content: center;
+
 }
 nav ul li {
     border: white 1px solid ;
+    display: inline-block;
 }
 ul {
     list-style: none;
