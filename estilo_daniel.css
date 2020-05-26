@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(0, 68, 255);
+}
+
+p.titulo {
+    background-color: black;
+    color: white;
+}
+img.robot {
+    background-repeat: repeat-x;
+}
