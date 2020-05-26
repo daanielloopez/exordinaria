@@ -35,6 +35,5 @@ li.bloque2 {
     background-color: dimgray;
     color: blue;
     border: yellow 4px solid;
-    align-items: center;
-
+    width: 350px;
 }
