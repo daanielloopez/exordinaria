@@ -35,5 +35,16 @@ li.bloque2 {
     background-color: dimgray;
     color: blue;
     border: yellow 4px solid;
-    width: 350px;
+    width: 250px;
+}
+li.bloque3 {
+    background-color: forestgreen;
+    color: white;
+    border: orangered 4px dashed;
+    width: 310px;
+}
+li.bloque4 {
+    background-color: khaki;
+    color: blue;
+    width: 400px;
 }
