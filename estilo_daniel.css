@@ -25,4 +25,5 @@ ul.bloque1 {
     background-color: white;
     text-decoration: overline;
     border: blue 2px solid;
+    width: 80px;
 }
