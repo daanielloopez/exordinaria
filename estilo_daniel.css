@@ -24,6 +24,7 @@ table {
 li.bloque1 {
     background-color: white;
     text-decoration: overline;
-    border: blue 2px solid;
+    border: blue 4px solid;
     width: 350px;
+    text-align: center;
 }
