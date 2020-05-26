@@ -1,3 +1,6 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+</style>
 body {
     background-color: rgb(0, 68, 255);
 }
@@ -6,7 +9,8 @@ p.titulo {
     background-color: black;
     color: white;´
     font-size: 150%;
-    font-family: "Segoe UI";
+    font-family: "Balsamiq Sans";
+    text-align: center;
 }
 img.robot {
     background-repeat: repeat-x;
