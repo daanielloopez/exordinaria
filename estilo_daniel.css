@@ -21,10 +21,20 @@ table {
     background-color: black;
     color: white;
 }
+ul {
+    list-style: none;
+}
 li.bloque1 {
     background-color: white;
     text-decoration: overline;
     border: blue 4px solid;
     width: 350px;
     text-align: center;
+}
+li.bloque2 {
+    background-color: dimgray;
+    color: blue;
+    border: yellow 4px solid;
+    align-items: center;
+
 }
