@@ -18,12 +18,11 @@ nav ul {
     background-color: black;
     color: white;
     list-style: none;
-    justify-content: center;
-
 }
 nav ul li {
     border: white 1px solid ;
     display: inline-block;
+    justify-content: center;
 }
 ul {
     list-style: none;
